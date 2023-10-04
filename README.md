@@ -6,6 +6,7 @@ Estou coletando dados e informações afim de comprovar ou descartar a veracidad
 
 Esse projeto vai reunir imagens, mapas, fotos locais de amostras entre outros indícios que corroborem ou desprovem a existência desse suposto mar/lago interior
 
-## Conteúdo
+## Indício novo #1
+![text da wikipedia sobre o fato d eo solo de Patos de Minas ser de origem vulcânica](image.png)
 
-Atualmente apenas essas imagens corroboram minha hipótese
+## Mais indícios serão adicionados
